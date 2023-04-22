@@ -1,0 +1,2 @@
+# NegativeFilter
+Parallel programming paradigms
